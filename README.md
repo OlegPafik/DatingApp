@@ -12,6 +12,7 @@ Angular with Typescript for frontend
 Postman for API verification
 Entity Framework for Database
 Also: HTML, Bootstrap, CSS, C#
+When used with VS Code, the extension C# (by Microsoft) is recommended
 
 ## Completed final code in github:
 https://github.com/TryCatchLearn/DatingApp

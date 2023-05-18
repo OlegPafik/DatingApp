@@ -7,7 +7,7 @@ https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scra
 By Neil Cummings<br/>
 
 ## Tools
-.NET 7 for backend<br/>
+.NET 7.0.5 for backend<br/>
 Angular with Typescript for frontend<br/>
 Postman for API verification<br/>
 Entity Framework for Database<br/>

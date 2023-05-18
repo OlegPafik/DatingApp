@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DattingApp\\API\\API.csproj": {}
+    "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DattingApp\\API\\API.csproj": {
+    "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DattingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DattingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\OlegP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DattingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\OlegP\\Desktop\\Escritorio_D\\Learning\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OlegP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,16 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
